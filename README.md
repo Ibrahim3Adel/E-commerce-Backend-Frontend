@@ -1,4 +1,4 @@
-# Ecommerce-Backend-Frontend
+# Ecommerce-Backend
 E-commerce web app build using Node.js and SQL-Database, I used Asymmetric cryptography RSA (public and private keys)
 
 
