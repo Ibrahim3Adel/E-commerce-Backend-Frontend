@@ -3,5 +3,5 @@ E-commerce web app build using Node.js and SQL-Database, I used Asymmetric crypt
 
 
 * the users can browse the products and search easily for any product by using filters
-* and add products they need to their cart and order them whenever the need
+* and add products they need to their cart and order them whenever they desire
 *  users can add unlimited products to the store if they are authorised by the admin
